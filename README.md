@@ -1,4 +1,4 @@
-# TeacherSeat — Identity and Access Management (IAM) System 
+# TeacherSeat Identity and Access Management (IAM) System 
 
 ## Table of contents 
 
